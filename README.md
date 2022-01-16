@@ -1,4 +1,4 @@
-# Desafio nimbus
+# Nimbus
 ### 💻 Run Local
 
 ```
